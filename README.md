@@ -80,6 +80,6 @@ ublic class Graduate extends Student implements Salary{
 }`
 ```
 ### 六、实验结果
-![实验结果截图]()
+![实验结果截图](https://github.com/13911662135/JAVA-4/blob/main/3a69dc70fcecdb509ba5637ebd27fff.png)
 
 ### 七、实验感想
