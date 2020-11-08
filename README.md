@@ -83,3 +83,5 @@ ublic class Graduate extends Student implements Salary{
 ![实验结果截图](https://github.com/13911662135/JAVA-4/blob/main/3a69dc70fcecdb509ba5637ebd27fff.png)
 
 ### 七、实验感想
+#### 我觉得这次实验真tm简单，建议老师提高难度，我吕行什么都会，
+
