@@ -66,7 +66,7 @@ ublic class Graduate extends Student implements Salary{
   
     //重写继承的父类方法  
     @Override  
-    public int getFee() {  
+    public int getFee() {  。
         return 0;  
     }  
       
@@ -83,5 +83,5 @@ ublic class Graduate extends Student implements Salary{
 ![实验结果截图](https://github.com/13911662135/JAVA-4/blob/main/3a69dc70fcecdb509ba5637ebd27fff.png)
 
 ### 七、实验感想
-tm简单，建议老师提高难度，我吕行什么都会，建议老师直接跟我对线，毕竟我吕行猛的1.
+这次实验困难不是很多但是工作量特别大，我在和同学的交流中收获了很多，再接再厉
 
